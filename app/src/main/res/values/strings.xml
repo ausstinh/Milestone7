@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Milestone5_2</string>
+    <string name="Phone">Phone:</string>
+    <string name="Address">Address:</string>
+    <string name="CityState">City and State:</string>
+    <string name="ZipCode">ZipCode:</string>
+    <string name="Country">Country:</string>
+    <string name="Email">Email:</string>
+    <string name="Description">Description:</string>
+    <string name="BusinessHours">BusinessHours:</string>
+    <string name="WebsiteURL">WebsiteURL:</string>
+    <string name="AM">AM:</string>
+    <string name="PM">PM:</string>
+    <string name="Name">Name:</string>
+    <string name="Business">Business</string>
+    <string name="Person">Person</string>
+    <string name="searchContact">search Contact</string>
+    <string name="newContact">New Contact</string>
+    <string name="Camera">Camera</string>
+    <string name="PhotoLibrary">Photo Library</string>
+    <string name="PersonContact">Person Contact</string>
+    <string name="BusinessContact">Business Contact</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+</resources>
